@@ -36,7 +36,7 @@ def swapMethod(x,y, lMaxi, sMaxi):
 #Has to detect if going horizontally up or down
 def totalMethod(x,y, lMaxi, sMaxi):  
     #Going horizontally down
-    if x == 0 or y == 5:
+    if x == 0 or y == sMaxi:
         return min(lMaxi, (x+y)), max((x+y-lMaxi), 0)
     #Going horizontally up
     else:
