@@ -1,3 +1,6 @@
+# https://colej.net/working-out-the-jug-problem-in-python
+
+
 Everyone knows the classic water jug problem. You are by a stream with a 5-Litre and a 7-Litre bucket. How do you measure out 6-Liters in the fewest possible pourings? You first fill up the 7 and so on.
 
 
